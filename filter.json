@@ -1,0 +1,33 @@
+{
+  "targets": [
+    "providers",
+    "services",
+    "receivers"
+  ],
+  "object_filters": [
+    "androidx.camera.core.ImageAnalysis",
+    "androidx.camera.core.ImageCapture",
+    "androidx.camera.core.Preview",
+    "android.hardware.camera2.CameraCaptureSession",
+    "android.hardware.camera2.CameraCaptureSession.CaptureCallback",
+    "android.hardware.camera2.CameraDevice",
+    "android.hardware.camera2.CameraExtensionSession",
+    "android.hardware.camera2.CameraExtensionSession.ExtensionCaptureCallback",
+    "android.hardware.camera2.CameraManager",
+    "android.hardware.camera2.CameraOfflineSession",
+    "android.hardware.camera2.CaptureFailure",
+    "android.hardware.camera2.CaptureRequest",
+    "android.hardware.camera2.CaptureResult",
+    "android.hardware.camera2.TotalCaptureResult",
+    "android.hardware.Camera",
+    "android.media.MediaRecorder",
+    "android.media.AudioRecord",
+    "com.google.android.gms.location.FusedLocationProviderClient",
+    "android.hardware.Sensor",
+    "android.hardware.SensorEvent",
+    "android.hardware.SensorManager",
+    "android.hardware.TriggerEvent"
+  ],
+  "method_filters": [
+  ]
+}
