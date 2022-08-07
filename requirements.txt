@@ -1,0 +1,6 @@
+untangle==1.1.1
+google-play-scraper-dmi==0.9.8
+requests
+pymongo
+boto3
+mysql-connector
