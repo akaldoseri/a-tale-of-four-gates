@@ -1,8 +1,29 @@
-# a-tale-of-four-gates
-A Tale of Four Gates | Privilege Escalation and Permission Bypasses on Android through App Components
+# A Tale of Four Gates | Privilege Escalation and Permission Bypasses on Android through App Components
+## a-tale-of-four-gates
 
-=======
-### Overview
+This is the detection tool used in the paper : A Tale of Four Gates | Privilege Escalation and Permission Bypasses on Android through App Components
+
+Aldoseri, Abdulla, David Oswald, and Robert Chiper. "A Tale of Four Gates: Privilege Escalation and Permission Bypasses on Android Through App Components." European Symposium on Research in Computer Security. Cham: Springer Nature Switzerland, 2022.‏
+(https://link.springer.com/chapter/10.1007/978-3-031-17146-8_12)
+## To cite the paper
+```
+@inproceedings{aldoseri2022tale,
+  title={A Tale of Four Gates: Privilege Escalation and Permission Bypasses on Android Through App Components},
+  author={Aldoseri, Abdulla and Oswald, David and Chiper, Robert},
+  booktitle={European Symposium on Research in Computer Security},
+  pages={233--251},
+  year={2022},
+  organization={Springer}
+}
+```
+
+## Paper at Google scholar:
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sDQEs7wAAAAJ&citation_for_view=sDQEs7wAAAAJ:ufrVoPGSRksC
+
+## Original repo
+https://github.com/Cipher358/a-tale-of-four-gates/tree/master
+
+### about the repo
 There are 2 executable scripts in the project:
 * `python3 ./apk_analyser.py [app.apk]`:
   * works with either the apps listed in `package_names.json` or with local apks
